@@ -8,12 +8,16 @@ https://youtu.be/iWR6bCVcC2Q
 
 ## List of Documents - Upload Date
 - Project Proposal - September 18
+- Business Case - October 2
+- Project Scope Statement - September 30
+- Statement of Work - October 2
 - Milestone-Based Schedule - September 27 (Rev. Sep 30)
 - Project Roles and Responsabilities - September 30
-- Project Scope Statement - September 30
+- RACI Chart - October 2
 - Lo-Fi Prototypes - September 30
 - Entity Relationship Diagram - September 30 (Rev. Oct 1)
 - Project Status Report - Biweekly starting September 27
+- Issue Log - As issues occur
 
 ## Links
 This section is only here for quick access (for team) and is to be removed when final PNGs of documents are uploaded
