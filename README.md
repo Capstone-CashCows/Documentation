@@ -12,7 +12,7 @@ https://youtu.be/iWR6bCVcC2Q
 - Project Roles and Responsabilities - September 30
 - Project Scope Statement - September 30
 - Lo-Fi Prototypes - September 30
-- Entity Relationship Diagram - September 30 
+- Entity Relationship Diagram - September 30 (Rev. Oct 1)
 - Project Status Report - Biweekly starting September 27
 
 ## Links
