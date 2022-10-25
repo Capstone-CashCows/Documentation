@@ -6,6 +6,10 @@ This repository holds all the documentation we have for our Capstone project. Th
 Intro to project & team (project idea, business need/opportunity, impacts)  
 https://youtu.be/iWR6bCVcC2Q   
 
+### Vlog #2
+Project work update, issues, and overview of work completed over the past few weeks  
+https://youtu.be/zT5lXu2uB_Y
+
 ## List of Documents - Upload Date
 - Project Proposal - September 18
 - Business Case - October 2
