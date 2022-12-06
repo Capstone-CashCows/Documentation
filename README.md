@@ -10,6 +10,10 @@ https://youtu.be/iWR6bCVcC2Q
 Project work update, issues, and overview of work completed over the past few weeks  
 https://youtu.be/zT5lXu2uB_Y
 
+### Vlog #3
+Final vlog for ENSE400, project update and app demo  
+https://youtu.be/Z_OyBaf9lW0
+
 ## List of Documents - Upload Date
 - Project Proposal - September 18
 - Business Case - October 2
