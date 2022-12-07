@@ -25,7 +25,7 @@ https://youtu.be/Z_OyBaf9lW0
 - Lo-Fi Prototypes - September 30
 - Entity Relationship Diagram - September 30 (Rev. Oct 1)
 - Project Status Report - Biweekly starting September 27
-- Issue Log - As issues occur
+- Issue Log - As issues occur (Rev. Dec 7)
 
 ## Links
 This section is only here for quick access (for team) and is to be removed when final PNGs of documents are uploaded
