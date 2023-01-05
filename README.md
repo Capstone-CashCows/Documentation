@@ -19,7 +19,7 @@ https://youtu.be/Z_OyBaf9lW0
 - Business Case - October 2
 - Project Scope Statement - September 30
 - Statement of Work - October 2
-- Milestone-Based Schedule - September 27 (Rev. Sep 30)
+- Milestone-Based Schedule - September 27 (Rev. Jan 05)
 - Project Roles and Responsabilities - September 30
 - RACI Chart - October 2
 - Lo-Fi Prototypes - September 30
