@@ -27,6 +27,7 @@ https://youtu.be/Z_OyBaf9lW0
 - Project Status Report - Biweekly starting September 27
 - Issue Log - As issues occur (Rev. Dec 7)
 - Cost Log - Nov. 14 (Rev. Jan. 5)
+- User Feedback - Jan. 6 
 
 ## Links
 This section is only here for quick access (for team) and is to be removed when final PNGs of documents are uploaded
