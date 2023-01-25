@@ -1,6 +1,14 @@
 # Documentation
 This repository holds all the documentation we have for our Capstone project. This includes all project planning and scope documents, responsabilities, prototypes, database design, and more. As the project advances, some documents are subject to change. 
 
+## Project summary
+Money and investing is a scary concept to many, as there is just so much to know. Our goal is to make it fun and easy.
+
+Through the power of gamification and habit building, we aim to create a platform which provides adequate financial education to those who have been let down by traditional education systems.
+
+Our application has two primary features: lessons ​with interactive quizzes and paper trading. Daily lessons will encourage users to form healthy habits of learning while the paper trading section will allow users to apply their newly acquired knowledge.
+
+
 ## Vlogs
 ### Vlog #1 
 Intro to project & team (project idea, business need/opportunity, impacts)  
