@@ -31,7 +31,7 @@ Second vlog for ENSE477, project update and app demo
 https://youtu.be/DPHtVXSh03k
 
 ### Vlog 6
-Final vlog for ENSE477, project update and app demo 
+Final vlog for ENSE477, project update and app demo   
 https://youtu.be/uQMXPbtloZk
 
 ## List of Documents - Upload Date
