@@ -30,6 +30,10 @@ https://youtu.be/m7PxaMmh2ms
 Second vlog for ENSE477, project update and app demo  
 https://youtu.be/DPHtVXSh03k
 
+### Vlog 6
+Final vlog for ENSE477, project update and app demo 
+https://youtu.be/uQMXPbtloZk
+
 ## List of Documents - Upload Date
 - Project Proposal - September 18
 - Business Case - October 2
