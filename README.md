@@ -8,6 +8,8 @@ Through the power of gamification and habit building, we aim to create a platfor
 
 Our application has two primary features: lessons ​with interactive quizzes and paper trading. Daily lessons will encourage users to form healthy habits of learning while the paper trading section will allow users to apply their newly acquired knowledge.
 
+## Commercial
+https://youtu.be/8-R0PXaHJrQ
 
 ## Vlogs
 ### Vlog #1 
@@ -33,6 +35,7 @@ https://youtu.be/DPHtVXSh03k
 ### Vlog 6
 Final vlog for ENSE477, project update and app demo   
 https://youtu.be/uQMXPbtloZk
+
 
 ## List of Documents - Upload Date
 - Project Proposal - September 18
