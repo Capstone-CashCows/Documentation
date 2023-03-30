@@ -1,8 +1,11 @@
-# Documentation
+# Investment Grade Documentation Repo
 This repository holds all the documentation we have for our Capstone project. This includes all project planning and scope documents, responsabilities, prototypes, database design, and more. As the project advances, some documents are subject to change. 
 
-## Project summary
-Money and investing is a scary concept to many, as there is just so much to know. Our goal is to make it fun and easy.
+## Problem Statement
+The complexities of the stock market are overwhelming and confusing, leaving many young adults feeling intimidated and unsure of where to start learning about investing.
+
+## Project Summary
+Money and investing are scary concepts to many, as there is just so much to know. Our goal is to make it fun and easy.  
 
 Through the power of gamification and habit building, we aim to create a platform which provides adequate financial education to those who have been let down by traditional education systems.
 
@@ -56,4 +59,9 @@ https://youtu.be/uQMXPbtloZk
 This section is only here for quick access (for team) and is to be removed when final PNGs of documents are uploaded
 - LucidChart for database design - [Entity Relationship Diagram](https://lucid.app/lucidchart/fce9ec9c-5639-4d74-8209-18d9d856876b/edit?viewport_loc=-53%2C321%2C2162%2C1008%2C0_0&invitationId=inv_12dec01a-8497-4a34-b980-bf1e2b5d1aa7#)  
 - Figma for prototyping - [High Fidelity Prototypes](https://www.figma.com/file/8a5PxAyVzHBtxMvQh92txs/High-Fidelity-Prototype?node-id=0%3A1)
+
+## Acknowledgments
+Thank you to Dr. Tim Maciag and Trevor Douglas from the Faculty of Engineering at the University of Regina for guiding us through our Capstone project.  
+
+Another big thanks to the Cultivator powered by Conexus team for providing us with resources to create a better product as part of the START program cohort 8. Shoutout and special thanks to our mentor Joel Graham.
 
