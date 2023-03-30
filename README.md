@@ -55,11 +55,6 @@ https://youtu.be/uQMXPbtloZk
 - Cost Log - Nov. 14 (Rev. Jan. 5, Feb. 21, Mar. 30)
 - User Feedback - Jan. 6 
 
-## Links
-This section is only here for quick access (for team) and is to be removed when final PNGs of documents are uploaded
-- LucidChart for database design - [Entity Relationship Diagram](https://lucid.app/lucidchart/fce9ec9c-5639-4d74-8209-18d9d856876b/edit?viewport_loc=-53%2C321%2C2162%2C1008%2C0_0&invitationId=inv_12dec01a-8497-4a34-b980-bf1e2b5d1aa7#)  
-- Figma for prototyping - [High Fidelity Prototypes](https://www.figma.com/file/8a5PxAyVzHBtxMvQh92txs/High-Fidelity-Prototype?node-id=0%3A1)
-
 ## Acknowledgments
 Thank you to Dr. Tim Maciag and Trevor Douglas from the Faculty of Engineering at the University of Regina for guiding us through our Capstone project.  
 
