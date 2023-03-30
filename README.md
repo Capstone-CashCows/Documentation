@@ -42,14 +42,14 @@ https://youtu.be/uQMXPbtloZk
 - Business Case - October 2
 - Project Scope Statement - September 30
 - Statement of Work - October 2
-- Milestone-Based Schedule - September 27 (Rev. Jan 05)
+- Milestone-Based Schedule - September 27 (Rev. Jan. 5)
 - Project Roles and Responsabilities - September 30
 - RACI Chart - October 2
 - Lo-Fi Prototypes - September 30
 - Entity Relationship Diagram - September 30 (Rev. Oct 1, Dec. 8, Jan. 5, Mar. 30)
-- Project Status Report - Biweekly starting September 27
+- Project Status Report - For scrums prior to having progress to show (ie. the app)
 - Issue Log - As issues occur (Rev. Dec 7)
-- Cost Log - Nov. 14 (Rev. Jan. 5, Mar. 30)
+- Cost Log - Nov. 14 (Rev. Jan. 5, Feb. 21, Mar. 30)
 - User Feedback - Jan. 6 
 
 ## Links
