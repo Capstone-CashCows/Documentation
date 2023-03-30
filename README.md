@@ -49,7 +49,7 @@ https://youtu.be/uQMXPbtloZk
 - Entity Relationship Diagram - September 30 (Rev. Oct 1, Dec. 8, Jan. 5, Mar. 30)
 - Project Status Report - Biweekly starting September 27
 - Issue Log - As issues occur (Rev. Dec 7)
-- Cost Log - Nov. 14 (Rev. Jan. 5)
+- Cost Log - Nov. 14 (Rev. Jan. 5, Mar. 30)
 - User Feedback - Jan. 6 
 
 ## Links
