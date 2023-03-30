@@ -46,7 +46,7 @@ https://youtu.be/uQMXPbtloZk
 - Project Roles and Responsabilities - September 30
 - RACI Chart - October 2
 - Lo-Fi Prototypes - September 30
-- Entity Relationship Diagram - September 30 (Rev. Oct 1, Dec. 8, Jan. 5)
+- Entity Relationship Diagram - September 30 (Rev. Oct 1, Dec. 8, Jan. 5, Mar. 30)
 - Project Status Report - Biweekly starting September 27
 - Issue Log - As issues occur (Rev. Dec 7)
 - Cost Log - Nov. 14 (Rev. Jan. 5)
