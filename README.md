@@ -39,22 +39,6 @@ https://youtu.be/DPHtVXSh03k
 Final vlog for ENSE477, project update and app demo   
 https://youtu.be/uQMXPbtloZk
 
-
-## List of Documents - Upload Date
-- Project Proposal - September 18
-- Business Case - October 2
-- Project Scope Statement - September 30
-- Statement of Work - October 2
-- Milestone-Based Schedule - September 27 (Rev. Jan. 5)
-- Project Roles and Responsabilities - September 30
-- RACI Chart - October 2
-- Lo-Fi Prototypes - September 30
-- Entity Relationship Diagram - September 30 (Rev. Oct 1, Dec. 8, Jan. 5, Mar. 30)
-- Project Status Report - For scrums prior to having progress to show (ie. the app)
-- Issue Log - As issues occur (Rev. Dec 7)
-- Cost Log - Nov. 14 (Rev. Jan. 5, Feb. 21, Mar. 30)
-- User Feedback - Jan. 6 
-
 ## Acknowledgments
 Thank you to Dr. Tim Maciag and Trevor Douglas from the Faculty of Engineering at the University of Regina for guiding us through our Capstone project.  
 
